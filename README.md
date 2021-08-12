@@ -1,5 +1,12 @@
 # pybind11-interpreter
 
+## Requirements
+
+* C++17 compiler
+* Boost.Signals2
+* python-dev
+* pybind11
+
 ## Usage
 
 ```cpp
